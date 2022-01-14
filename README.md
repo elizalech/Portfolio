@@ -4,7 +4,7 @@ This project was my final project for ECON 184b - Econometrics with R at Brandei
 In this folder you will find the Geodatabase of flood layer zones taken from the NYC gov data repository (Bytes of the Big apple) and the housing transaction sample data. 
 
 Contents: 
-Spatial analysis code
-RMD file for project
-HTML rMarkdown output file
-Images showing all houses in flood zones at different sea level rise predictions
+Spatial analysis code,
+RMD file for project,
+HTML rMarkdown output file,
+Images showing all houses in flood zones at different sea level rise predictions.
